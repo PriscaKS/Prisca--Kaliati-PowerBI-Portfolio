@@ -67,8 +67,8 @@ This dashboard provides executives and managers with a clear understanding of bu
 ## Dashboard Preview
 
 *(Insert dashboard screenshot here)*
-
-(../images/Bpi1.png)
+![Business Performance Insight](images/Bpi1.png)
+(/images/Bpi1.png)
 (images/Bpi2.png)
 (images/Bpi3.png)
 ---
