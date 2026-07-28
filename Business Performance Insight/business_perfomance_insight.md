@@ -67,7 +67,9 @@ This dashboard provides executives and managers with a clear understanding of bu
 ## Dashboard Preview
 
 *(Insert dashboard screenshot here)*
-
+(Images/Bpi1.png)
+(Images/Bpi2.png)
+(Images/Bpi3.png)
 ---
 
 ## Key Takeaways
