@@ -1,52 +1,79 @@
-# Prisca--Kaliati-PowerBI-Portfolio
-A collection of my Power BI projects demonstrating data analysis, dashboard development, data visualization, and business intelligence solutions using Power BI, SQL, Excel, and data modellingtechniques.
+# 📊 Power BI Portfolio
 
-# Power BI Portfolio
+Welcome to my Power BI Portfolio!
 
-Welcome to my Power BI portfolio. This repository showcases my projects in data analytics, dashboard development, reporting, and business intelligence.
+I'm **Prisca Kaliati**, a Computer Engineer and Data Analyst passionate about transforming raw data into meaningful insights through Business Intelligence solutions.
 
-## About Me
+This repository contains a collection of Power BI projects that demonstrate my skills in data modelling, data visualization, dashboard development, SQL, DAX, and business reporting.
 
-I am a Computer Engineer with experience in data analysis, Power BI development, SQL, and business reporting. I enjoy transforming raw data into meaningful insights that support decision-making.
+---
 
-## Tools & Technologies
+## 👩🏽‍💻 About Me
+
+I have experience designing interactive dashboards that help organizations monitor performance, identify trends, and make data-driven decisions.
+
+My technical skills include:
 
 - Microsoft Power BI
 - SQL Server
-- Excel
-- DAX
+- Microsoft Excel
 - Power Query
+- DAX
 - Data Modelling
-- Data Visualization
-
-## Projects
-
-### 1. Employee Performance Dashboard
-
-**Description:**
-An interactive Power BI dashboard designed to analyze employee performance, salary distribution, departmental trends, and workforce insights.
-
-**Skills demonstrated:**
-- Data cleaning
-- Data modelling
-- DAX calculations
-- Interactive visualizations
+- Data Cleaning
+- ETL
+- Dashboard Design
+- Business Intelligence
 
 ---
 
-### 2. Electricity Billing Analytics Dashboard
+## 📁 Projects
 
-**Description:**
-A Power BI reporting solution focused on electricity consumption, billing analysis, customer trends, and operational insights.
+### 📌 HR Dashboard
+Workforce analytics, employee performance, salary analysis, and departmental insights.
 
-**Skills demonstrated:**
-- Business intelligence reporting
-- KPI development
-- Data visualization
+### 📌 Sales & Profit Dashboard
+Sales trends, customer insights, profitability analysis, and product performance.
+
+### 📌 (Replace with your third project's actual name)
+A Power BI solution focused on business reporting and interactive analytics.
 
 ---
 
-## Contact
+## 📈 What You'll Find
 
-LinkedIn: Add your LinkedIn link here
-Email: priscakaliati1@gmail.com
+Each project includes:
+
+- Business Problem
+- Objectives
+- Dataset Overview
+- Dashboard Preview
+- Key Insights
+- Tools Used
+- Skills Demonstrated
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- SQL Server
+- Microsoft Excel
+- Power Query
+- DAX
+
+---
+
+## 📫 Contact
+
+**Name:** Prisca Kaliati
+
+**Email:** priscakaliati1@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/your-profile
+
+**GitHub:** https://github.com/yourusername
+
+---
+
+Thank you for taking the time to explore my portfolio. I hope these projects demonstrate my ability to transform data into actionable insights through effective Business Intelligence solutions.
