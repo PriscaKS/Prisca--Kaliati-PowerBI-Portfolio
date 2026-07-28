@@ -2,13 +2,13 @@
 
 ## Overview
 
-The HR Dashboard is an interactive Business Intelligence solution designed to provide Human Resource professionals with a comprehensive view of workforce performance and employee data. It transforms r[...] 
+The HR Dashboard is an interactive Business Intelligence solution designed to provide Human Resource professionals with a comprehensive view of workforce performance and employee data. It transforms raw HR information into meaningful visual insights that support strategic planning, workforce management, and informed decision-making.
 
 ---
 
 ## Business Problem
 
-Human Resource departments often rely on multiple spreadsheets and disconnected reports, making it difficult to monitor workforce trends, employee distribution, salary structures, and overall organiza[...] 
+Human Resource departments often rely on multiple spreadsheets and disconnected reports, making it difficult to monitor workforce trends, employee distribution, salary structures, and overall organizational performance.
 
 This dashboard centralizes HR data into a single interactive reporting platform, enabling faster and more effective decision-making.
 
@@ -74,4 +74,4 @@ This dashboard enables HR managers to quickly identify workforce trends, monitor
 
 ##  Key Takeaways
 
-This project demonstrates my ability to design interactive Business Intelligence solutions that transform HR data into actionable insights while applying industry best practices in dashboard developme[...]
+This project demonstrates my ability to design interactive Business Intelligence solutions that transform HR data into actionable insights while applying industry best practices in dashboard development and data visualization.
