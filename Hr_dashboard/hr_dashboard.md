@@ -68,8 +68,10 @@ This dashboard enables HR managers to quickly identify workforce trends, monitor
 
 ## Dashboard Preview
 
-*(Insert dashboard screenshot here)*
 
+![Hr_daschboard](images/Hr1.png)
+
+![Hr_daschboard](images/Hr2.png)
 ---
 
 ##  Key Takeaways
