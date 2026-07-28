@@ -22,7 +22,7 @@ Each project demonstrates my ability to transform raw data into meaningful insig
 
 ---
 
-# 👩🏽‍💻 About Me
+# About Me
 
 I'm **Prisca Kaliati**, a Computer Engineer with a strong interest in Business Intelligence, Data Analytics, and Data Visualization.
 
@@ -91,7 +91,7 @@ An executive reporting dashboard designed to monitor organizational performance,
 
 ---
 
-# 🛠 Tools & Technologies Used
+# Tools & Technologies Used
 
 - Microsoft Power BI
 - SQL Server
@@ -104,7 +104,7 @@ An executive reporting dashboard designed to monitor organizational performance,
 
 ---
 
-# 📌 What You'll Find in Every Project
+#  What You'll Find in Every Project
 
 Each project includes:
 
@@ -119,7 +119,7 @@ Each project includes:
 
 ---
 
-# 🎯 Core Competencies
+# Core Competencies
 
 ✔ Business Intelligence
 
@@ -147,27 +147,27 @@ Each project includes:
 
 ---
 
-# 📬 Contact
+#  Contact
 
-**👩🏽 Name**
+** Name**
 
 Prisca Kaliati
 
-**📧 Email**
+**Email**
 
 your-email@example.com
 
-**💼 LinkedIn**
+** LinkedIn**
 
 https://linkedin.com/in/your-profile
 
-**💻 GitHub**
+**GitHub**
 
 https://github.com/yourusername
 
 ---
 
-# ⭐ Thank You
+# Thank You
 
 Thank you for taking the time to explore my portfolio.
 
