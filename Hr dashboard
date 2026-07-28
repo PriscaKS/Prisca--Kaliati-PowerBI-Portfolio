@@ -1,46 +1,77 @@
-# HR Dashboard
+#HR Dashboard
 
-## Project Overview
+## Overview
 
-This dashboard was developed to help organizations monitor employee performance and workforce trends through interactive visualizations.
+The HR Dashboard is an interactive Business Intelligence solution designed to provide Human Resource professionals with a comprehensive view of workforce performance and employee data. It transforms raw HR information into meaningful visual insights that support strategic planning, workforce management, and informed decision-making.
+
+---
 
 ## Business Problem
 
-Human Resource departments often manage large volumes of employee information, making it difficult to identify workforce trends and monitor overall performance.
+Human Resource departments often rely on multiple spreadsheets and disconnected reports, making it difficult to monitor workforce trends, employee distribution, salary structures, and overall organizational performance.
 
-This dashboard transforms HR data into meaningful insights that support strategic decision-making.
+This dashboard centralizes HR data into a single interactive reporting platform, enabling faster and more effective decision-making.
+
+---
 
 ## Objectives
 
-- Monitor employee performance
-- Analyse workforce demographics
-- Track departmental performance
-- Improve reporting efficiency
+- Monitor workforce demographics
+- Track employee distribution across departments
+- Analyse salary trends
+- Measure workforce performance
+- Improve HR reporting efficiency
+- Support strategic workforce planning
 
-## Tools Used
+---
 
-- Power BI
+## Dashboard Features
+
+- Employee Overview
+- Department Analysis
+- Gender Distribution
+- Salary Analysis
+- Workforce KPIs
+- Interactive Filters and Slicers
+- Dynamic Charts and Visualizations
+
+---
+
+## Business Value
+
+This dashboard enables HR managers to quickly identify workforce trends, monitor employee metrics, and improve decision-making through real-time reporting and interactive visualizations.
+
+---
+
+## Technologies Used
+
+- Microsoft Power BI
+- Microsoft Excel
 - SQL Server
-- Excel
 - Power Query
 - DAX
 
-## Features
-
-- Employee overview
-- Department analysis
-- Performance metrics
-- Interactive filtering
-- KPI cards
+---
 
 ## Skills Demonstrated
 
 - Data Cleaning
+- Data Transformation
 - Data Modelling
 - DAX Calculations
 - Dashboard Design
-- Business Intelligence Reporting
+- HR Analytics
+- KPI Reporting
+- Interactive Data Visualization
+
+---
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
+*(Insert dashboard screenshot here)*
+
+---
+
+##  Key Takeaways
+
+This project demonstrates my ability to design interactive Business Intelligence solutions that transform HR data into actionable insights while applying industry best practices in dashboard development and data visualization.
