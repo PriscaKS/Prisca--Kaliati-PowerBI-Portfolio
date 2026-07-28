@@ -155,17 +155,11 @@ Prisca Kaliati
 
 **Email**
 
-your-email@example.com
+priscakaliati1@gmail.com
 
 **LinkedIn**
+https://www.linkedin.com/in/prisca-kaliati-b1a2b2263
 
-https://linkedin.com/in/your-profile
-
-**GitHub**
-
-https://github.com/yourusername
-
----
 
 # Thank You
 
