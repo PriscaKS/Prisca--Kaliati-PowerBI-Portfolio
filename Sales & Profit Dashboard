@@ -1,0 +1,48 @@
+# Sales & Profit Dashboard
+
+## Project Overview
+
+This Power BI dashboard provides insights into sales performance, profitability, customer behaviour, and product performance.
+
+It enables decision-makers to monitor business performance through interactive reports.
+
+## Business Problem
+
+Businesses generate large volumes of transactional data but often struggle to convert it into actionable insights.
+
+This dashboard simplifies analysis by presenting key performance indicators and trends.
+
+## Objectives
+
+- Analyse sales performance
+- Monitor profitability
+- Track customer trends
+- Evaluate product performance
+- Support strategic business decisions
+
+## Tools Used
+
+- Power BI
+- SQL Server
+- Excel
+- Power Query
+- DAX
+
+## Features
+
+- Sales Overview
+- Profit Analysis
+- Customer Insights
+- Product Performance
+- Regional Analysis
+- KPI Dashboard
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modelling
+- DAX
+- Interactive Dashboard Design
+
+## Dashboard Preview
