@@ -149,7 +149,7 @@ Each project includes:
 
 #  Contact
 
-** Name**
+**Name**
 
 Prisca Kaliati
 
@@ -157,7 +157,7 @@ Prisca Kaliati
 
 your-email@example.com
 
-** LinkedIn**
+**LinkedIn**
 
 https://linkedin.com/in/your-profile
 
