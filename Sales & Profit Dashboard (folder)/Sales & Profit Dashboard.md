@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Sales & Profit Dashboard is a Business Intelligence solution developed to monitor sales performance and profitability across products, customers, and regions. It provides decision-makers with clea[...]
+The Sales & Profit Dashboard is a Business Intelligence solution developed to monitor sales performance and profitability across products, customers, and regions. It provides decision-makers with clear visual insights that support revenue growth and business optimization.
 
 ---
 
