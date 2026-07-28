@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Business Performance Insights Dashboard is an executive reporting solution developed to monitor organizational performance through key performance indicators (KPIs), operational metrics, and busin[...]
+The Business Performance Insights Dashboard is an executive reporting solution developed to monitor organizational performance through key performance indicators (KPIs), operational metrics, and business trends.
 
 It provides stakeholders with a high-level view of business performance, enabling timely, data-driven decision-making.
 
