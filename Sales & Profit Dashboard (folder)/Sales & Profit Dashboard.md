@@ -65,8 +65,8 @@ The dashboard enables business managers to monitor performance, identify growth 
 
 ## Dashboard Preview
 
-*(Insert dashboard screenshot here)*
 
+![Sales & Profit Dashboard (folder)](images/S&p.png)
 ---
 
 ## Key Takeaways
