@@ -64,8 +64,9 @@ The dashboard provides valuable insights into customer behaviour and product per
 
 ## Dashboard Preview
 
-*(Insert dashboard screenshot here)*
 
+
+![Sales Insight Dashboard](images/Si.png)
 ---
 
 ## Key Takeaways
