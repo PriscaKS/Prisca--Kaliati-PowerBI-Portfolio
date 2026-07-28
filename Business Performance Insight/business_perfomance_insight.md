@@ -68,7 +68,7 @@ This dashboard provides executives and managers with a clear understanding of bu
 
 *(Insert dashboard screenshot here)*
 
-(images/Bpi1.png)
+(../images/Bpi1.png)
 (images/Bpi2.png)
 (images/Bpi3.png)
 ---
